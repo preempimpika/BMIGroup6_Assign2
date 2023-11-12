@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ranktext">
+        <item>ผอมมาก</item>
+        <item>ผอมปานกลาง</item>
+        <item>ผอม</item>
+        <item>ปกติ</item>
+        <item>น้ำหนักสูงกว่าเกณฑ์</item>
+        <item>โรคอ้วนระดับที่ 1</item>
+        <item>โรคอ้วนระดับที่ 2</item>
+        <item>โรคอ้วนระดับที่ 3</item>
+    </array>
+</resources>

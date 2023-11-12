@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ranktext">
+        <item>Severe Thinness</item>
+        <item>Moderate Thinness</item>
+        <item>Mild Thinness</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+        <item>Obese Class I</item>
+        <item>Obese Class II</item>
+        <item>Obese Class III</item>
+    </array>
+</resources>

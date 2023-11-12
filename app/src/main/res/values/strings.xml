@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMIGroup6</string>
+    <string name="content">ค่าดัชนีมวลกาย</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="bmi">ค่าดัชนีมวลกาย</string>
+    <string name="rank">อยู่ในเกณฑ์</string>
+    <string name="weighthint">65</string>
+    <string name="heighthint">168</string>
+    <string name="bmioutput"></string>
+    <string name="rankoutput"></string>
+    <string name="calculate">คำนวณ</string>
+    <string name="col_trans_id_str">trans</string>
+    <string name="col_name_str">name</string>
+    <string name="col_msg_str">msg</string>
+    <string name="col_amt_str">amt</string>
+    <string name="history">ประวัติ</string>
+    <string name="historylist">ประวัติค่าดัชนีมวลกาย</string>
+    <string name="date">วันที่</string>
+</resources>

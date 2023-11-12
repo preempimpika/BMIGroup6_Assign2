@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMIGroup6</string>
+    <string name="content">BMI Calculator</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="bmi">BMI</string>
+    <string name="rank">Classification</string>
+    <string name="weighthint">65</string>
+    <string name="heighthint">168</string>
+    <string name="bmioutput"></string>
+    <string name="rankoutput"></string>
+    <string name="calculate">Calculate</string>
+    <string name="col_trans_id_str">trans</string>
+    <string name="col_name_str">name</string>
+    <string name="col_msg_str">msg</string>
+    <string name="col_amt_str">amt</string>
+    <string name="history">History</string>
+    <string name="historylist">History</string>
+    <string name="date">Date</string>
+</resources>
